@@ -4,7 +4,7 @@ Hello, I'm Pavich (AKA PavichDev).\
 Thai developer who created many software since 2018.\
 I'm Programmer and Developer.
 ## Social Link
-Websites : https://sites.google.com/view/pavichdev \
+Websites : https://pavichdev.ddns.net \
 Facebook : https://www.facebook.com/pavichdev \
 GitHub : https://github.com/Pavich7
 ## Donate
