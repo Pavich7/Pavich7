@@ -11,7 +11,7 @@ GitHub : https://github.com/Pavich7
 ### Payment
 Paypal : http://paypal.me/pavichkomansil
 ### Cryptocurrency
-Bitcoin : bc1qgcdcyaefvzvw6jp3d2j9f2cys828pa6g7cuwwr\
+Bitcoin : 31vEDhdT89CVULscUscXtgnWfh6TuFioD3\
 Ethereum : 0x32d6c612aaabf825aaf513f86adf6c57492cc8a3\
 Dogecoin : DM7u23So6nT4zrk4XQCsTER5ra7NWkVwLA\
 Litecoin : LPjbvwrb19nuSNzNyWsCyqKdm5mgPEAQvd
