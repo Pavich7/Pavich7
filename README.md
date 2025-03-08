@@ -5,4 +5,4 @@ Hobbyist software developer since 2018.\
 Coding for Arduino, Windows apps, and robots.
 ## Contact
 Email : phavit_k@hotmail.com \
-Instagram : https://www.instagram.com/pavichisadev \
+Instagram : https://www.instagram.com/pavichisadev
